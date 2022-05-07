@@ -1,0 +1,6 @@
+body{
+    border-style: ridge;
+    border-width: 20px;
+    border-color: darkgreen;
+    background-color: lightgreen;
+}
